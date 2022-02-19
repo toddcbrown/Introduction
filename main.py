@@ -6,3 +6,8 @@ print(df.describe())
 print(cunt.x)
 print('hi again')
 print('bye')
+
+x = 100
+y = x + 7
+z = y * 0.5 
+print(z)
